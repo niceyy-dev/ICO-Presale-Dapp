@@ -32,11 +32,11 @@ erc20 token, nextjs solidity, web3.js, wagmi, ICO presale DApp, BSC token sale, 
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](<https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ico-presale-(erc20-token)-dapp-or-solidity-+-next.js-or-binance-polygon-ethereum>)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/6hkzT62Oo_8?si=JrxD0q5rfhWp2Gag)
 
 #### Deploying Dapp
 
@@ -70,11 +70,11 @@ Kindly follow the following Instructions to run the project in your system and i
   Video: https://youtu.be/PIR0oBVowXU?si=9eNdR29u37F2ujJJ
 ```
 
-#### FINAL CODE
+#### FINAL SOURCE CODE
 
 ```
-  SETUP VIDEO: https://youtu.be/j8NO8ea5zVo?si=jCmvfXmpmefwjhO5
-  URL: https://www.theblockchaincoders.com/sourceCode/multi-currency-ico-dapp-using-next.js-solidity-and-wagmi
+  SETUP VIDEO: https://youtu.be/6hkzT62Oo_8?si=JrxD0q5rfhWp2Gag
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ico-presale-(erc20-token)-dapp-or-solidity-+-next.js-or-binance-polygon-ethereum
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
