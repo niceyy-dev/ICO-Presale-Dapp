@@ -52,7 +52,7 @@
       "inputs": [
         {
           "internalType": "address",
-          "name": "recipient",
+          "name": "recipiend",
           "type": "address"
         },
         {
