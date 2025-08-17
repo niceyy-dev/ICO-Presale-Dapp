@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
           theme={darkTheme({
             accentColor: "D345EF",
             accentColorForeground: "white",
-            borderRadius: "snall",
+            borderRadius: "small",
             fontStack: "system",
             overlayBlur: "small",
           })}
