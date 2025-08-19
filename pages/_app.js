@@ -5,6 +5,7 @@ import { RainbowKitProvider, darkTheme } from "@rainbow-me/rainbowkit";
 import { QueryClientProvider, QueryClient, Query } from "@tanstack/react-query";
 import { Web3Provider } from "../context/Web3Provider";
 import { ToastProvider } from "../context/ToastContext";
+import "@rainbow-me/rainbowkit/styles.css";
 
 const queryClient = new QueryClient();
 
